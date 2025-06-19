@@ -1,5 +1,6 @@
 # GreenBot
 PEA WEED CLASSIFICATION, IDENTIFICATION AND PESTICIDE SPRAYING ROBOTIC VEHICLE
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ5dXhkYjBlNjk3Mzk0dDVwOGRjMm9jOWw2cDV0bTNmbWJrM2l2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CytKuRG1UCciXh9SDx/giphy.gif" width="35px"> 
 GreenBot is an autonomous robotic vehicle designed for precision agriculture. It leverages a deep learning model to differentiate between pea crops and weeds in real-time, enabling targeted pesticide spraying and intelligent irrigation. The entire system is controlled remotely via a custom Android application.
 Key Features
 
